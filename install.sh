@@ -6,7 +6,7 @@ set -e
 
 COMMAND_DIR="$HOME/.claude/commands"
 COMMAND_FILE="$COMMAND_DIR/justdoit.md"
-RAW_URL="https://raw.githubusercontent.com/destrustor/justdoit-cc/main/commands/justdoit.md"
+RAW_URL="https://raw.githubusercontent.com/aasm3535/justdoit-cc/master/commands/justdoit.md"
 
 mkdir -p "$COMMAND_DIR"
 

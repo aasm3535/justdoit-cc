@@ -23,13 +23,13 @@ When you run `/justdoit <task>` in Claude Code, it will:
 ### One-liner (macOS / Linux / WSL)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/destrustor/justdoit-cc/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/aasm3535/justdoit-cc/main/install.sh | bash
 ```
 
 ### PowerShell (Windows)
 
 ```powershell
-irm https://raw.githubusercontent.com/destrustor/justdoit-cc/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/aasm3535/justdoit-cc/main/install.ps1 | iex
 ```
 
 ### Manual
