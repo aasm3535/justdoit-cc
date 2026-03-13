@@ -3,7 +3,7 @@
 
 $CommandDir = "$env:USERPROFILE\.claude\commands"
 $CommandFile = "$CommandDir\justdoit.md"
-$RawUrl = "https://raw.githubusercontent.com/aasm3535/justdoit-cc/master/commands/justdoit.md"
+$RawUrl = "https://raw.githubusercontent.com/aasm3535/justdoit-cc/main/commands/justdoit.md"
 
 if (-not (Test-Path $CommandDir)) {
     New-Item -ItemType Directory -Path $CommandDir -Force | Out-Null
